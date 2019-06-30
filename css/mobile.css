@@ -188,6 +188,7 @@ header div:nth-of-type(1n+2){
     margin-left: 22% !Important;
 } */
 .Name{
+    display:inline-block;
    position: relative;
    width: 75%;
     align-self: flex-end;
