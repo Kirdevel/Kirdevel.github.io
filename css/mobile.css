@@ -195,7 +195,12 @@ h1.Name{
     font-family: 'Barlow Condensed', sans-serif;
     font-size: 60% !Important;
     padding-bottom: 3% !Important;
-    margin-left: 220% !Important;
+}
+h2.NameOtherPages{
+     color: azure;
+    font-family: 'Barlow Condensed', sans-serif;
+    font-size: 60% !Important;
+    padding-bottom: 3% !Important;
 }
 .Name1{
     position: relative !Important;
