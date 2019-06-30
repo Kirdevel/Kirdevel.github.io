@@ -191,13 +191,11 @@ header div:nth-of-type(1n+2){
 /*    position: absolute;
     transform: scale(4);
     padding-left: 0%; */
-      position: relative !Important;
-   width: 35% !Important;
-    align-self: flex-end !Important;
-    margin-left: 0% !Important;
-    padding-left:30% !Important;
-    color: azure !Important;
-    font-size:30% !Important;
+     color: azure;
+    font-family: 'Barlow Condensed', sans-serif;
+    font-size: 60% !Important;
+    padding-bottom: 3% !Important;
+    margin-left: -30%;
 }
 .Name1{
     position: relative !Important;
@@ -229,11 +227,6 @@ h1{
     font-family: 'Barlow Condensed', sans-serif;
     font-size: 71% !Important;
     padding-bottom: 3% !Important; */
-    color: azure;
-    font-family: 'Barlow Condensed', sans-serif;
-    font-size: 60% !Important;
-    padding-bottom: 3% !Important;
-    margin-left: -30%;
 }
 
 
