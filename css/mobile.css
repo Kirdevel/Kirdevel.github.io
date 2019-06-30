@@ -182,13 +182,17 @@ header div:nth-of-type(1n+2){
 }
 
     
-.Name{
+/* .Name{
    position: absolute !Important;
    width: 75% !Important;
-    /*align-self: flex-end;*/
     margin-left: 22% !Important;
+} */
+.Name{
+   position: relative;
+   width: 75%;
+    align-self: flex-end;
+    margin-left: -25%;
 }
-
 .Name1{
     position: relative !Important;
 }
