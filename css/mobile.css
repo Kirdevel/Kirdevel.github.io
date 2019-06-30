@@ -195,7 +195,8 @@ h1.Name{
     font-family: 'Barlow Condensed', sans-serif;
     font-size: 60% !Important;
     padding-bottom: 3% !Important;
-    margin-left: -15% !Important;
+    padding-left:-10%;
+/*     margin-left: -15% !Important; */
 }
 .Name1{
     position: relative !Important;
