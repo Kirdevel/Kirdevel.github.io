@@ -191,12 +191,12 @@ header div:nth-of-type(1n+2){
 /*    position: absolute;
     transform: scale(4);
     padding-left: 0%; */
-      position: relative;
-   width: 35%;
-    align-self: flex-end;
-    margin-left: 0%;
-    padding-left:130%;
-    color: azure;
+      position: relative !Important;
+   width: 35% !Important;
+    align-self: flex-end !Important;
+    margin-left: 0% !Important;
+    padding-left:130% !Important;
+    color: azure !Important;
 }
 .Name1{
     position: relative !Important;
