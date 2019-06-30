@@ -196,7 +196,7 @@ h1.Name{
     font-size: 60% !Important;
     padding-bottom: 3% !Important;
 }
-h2.NameOtherPages{
+h2 .NameOtherPages{
      color: azure;
     font-family: 'Barlow Condensed', sans-serif;
     font-size: 60% !Important;
