@@ -1299,7 +1299,7 @@ font-family: Arial;
     font-size: 1.5em;
     display: block;
     flex: 0.05 1 2%;
-    background-color: rgba(51, 126, 428, 0.2);
+    background-color: rgba(51, 126, 228, 0.2);
     /*margin: -2% -2%;*/
     /*border: 1px solid #365699;*/
     /*flex: 0.05 1 2%;*/
@@ -1307,7 +1307,7 @@ font-family: Arial;
 }
 .pag>a:hover{
     display: inline;
-    background-color: rgba(51, 126, 428, 0.4);
+    background-color: rgba(51, 126, 228, 0.4);
     /*padding-left: 16%;*/
     /*padding-right: 16%;*/
     /*padding-bottom: 6%;*/
